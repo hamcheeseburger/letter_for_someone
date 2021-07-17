@@ -66,6 +66,11 @@ header.login {
 	background-image: url('../assets/img/contact-bg.jpg');
 }
 
+.validation {
+	font-size: 10px;
+	color: red;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
